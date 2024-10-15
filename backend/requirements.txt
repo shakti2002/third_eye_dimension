@@ -1,0 +1,8 @@
+Flask
+flask-cors
+diffusers
+torch
+transformers
+accelerate
+modelscope
+moviepy
